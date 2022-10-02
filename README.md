@@ -2,7 +2,7 @@
 
 I followed the "Create a console calculator in C++" from Micosoft learn: https://learn.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=msvc-170
 
-In this tutorial I learned how to make simple arithmetic calculator in Visual studio. This consisted
+In this tutorial I learned how to make a simple arithmetic calculator in Visual studio that is console based. This consisted
 of debugging and building the app, programming in C++ and finally uploading the project to Github.
 
 <===== INSTRUCTIONS =====>
