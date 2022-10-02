@@ -1,6 +1,6 @@
 # CalculatorTutorial
 
-I followed the "Create a console calculator in C++" for Micosoft learn: https://learn.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=msvc-170
+I followed the "Create a console calculator in C++" from Micosoft learn: https://learn.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=msvc-170
 
 In this tutorial I learned how to make simple arithmetic calculator in Visual studio. This consisted
 of debugging and building the app, programming in C++ and finally uploading the project to Github.
